@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://toanquoctran.github.io/ToanTranSophomorePortfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.instagram.com/tqtran11/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.facebook.com/tqtran11/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/tqtran11/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.linkedin.com/in/toanquoctran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:tqtran@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
