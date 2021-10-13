@@ -1,4 +1,4 @@
-<img src="https://ibb.co/vYm6cW3">
+<a href="https://ibb.co/vYm6cW3"><img src="https://i.ibb.co/JQ2wcTv/IMG-6829.jpg" alt="IMG-6829" border="0"></a>
 
 <h2> Hey there! I'm Toan 🤗.</h2>
 
