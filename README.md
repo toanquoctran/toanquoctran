@@ -52,7 +52,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://toanquoctran.github.io/ToanTranSophomorePortfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.toan.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://toanquoctran.github.io/ToanTranSophomorePortfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/toanquoctran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/tqtran11/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tqtran@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
