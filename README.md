@@ -56,6 +56,7 @@
 <a href="https://www.linkedin.com/in/toanquoctran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/tqtran11/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tqtran@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/tqtran11/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
